@@ -1,0 +1,1 @@
+booking_id,booking_datetime,city,pickup_location,dropoff_location,vehicle_type,booking_status,fare,distance_km,duration_min,source_record_id

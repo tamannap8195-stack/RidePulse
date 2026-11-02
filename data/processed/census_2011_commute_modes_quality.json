@@ -1,0 +1,26 @@
+{
+  "source_files": [
+    "DDW-0300B-28.xlsx",
+    "DDW-0400B-28.xlsx"
+  ],
+  "records_output": 198,
+  "coverage": [
+    "Amritsar",
+    "Chandigarh",
+    "Jalandhar",
+    "Ludhiana",
+    "Mohali",
+    "Patiala"
+  ],
+  "year": 2011,
+  "quality_flags": "No row-level values imputed; Census structural Total/Urban/Rural aggregates retained.",
+  "kpi_support": {
+    "commute mode counts": true,
+    "distance distribution": true,
+    "gender counts": true,
+    "ride bookings": false,
+    "fare": false,
+    "cancellations": false,
+    "booking time": false
+  }
+}

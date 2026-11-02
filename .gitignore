@@ -1,0 +1,14 @@
+.env
+__pycache__/
+.venv/
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/DDW-0300B-28.xlsx
+!data/raw/DDW-0400B-28.xlsx
+data/processed/*
+!data/processed/.gitkeep
+!data/processed/census_2011_commute_modes.csv
+!data/processed/census_2011_commute_modes_quality.json
+tableau/data/*
+!tableau/data/.gitkeep
+!tableau/data/census_2011_commute_modes.csv
